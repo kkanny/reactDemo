@@ -1,0 +1,16 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "React JS intro file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactJS",
+    "express",
+    "node"
+  ],
+  "author": "Kamrunnahar Kanny",
+  "license": "MIT"
+}
